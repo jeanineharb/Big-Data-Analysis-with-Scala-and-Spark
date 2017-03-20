@@ -8,7 +8,7 @@ This project contains my submissions for the Coursera MOOC [Big Data Analysis wi
 
 * **Date Completed**: -
 
-## Grading
+## Assignments
 
 ### Programming Assignment 1: Wikipedia
 
