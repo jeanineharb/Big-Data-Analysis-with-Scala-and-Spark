@@ -6,7 +6,7 @@ This project contains my submissions for the Coursera MOOC [Big Data Analysis wi
 
 * **Date Started**: March 14, 2017
 
-* **Date Completed**: -
+* **Date Completed**: March 24, 2017
 
 ## Assignments
 
@@ -36,9 +36,9 @@ This project contains my submissions for the Coursera MOOC [Big Data Analysis wi
 
 * **Lesson**: SQL, Dataframes, and Datasets
 
-* **Description**: "The dataset is provided by Kaggle and is documented here: https://www.kaggle.com/bls/american-time-use-survey"
+* **Description**: "Our goal is to identify three groups of activities: primary needs (sleeping and eating), work, other (leisure). And then to observe how do people allocate their time between these three kinds of activities, and if we can see differences between men and women, employed and unemployed people, and young (less than 22 years old), active (between 22 and 55 years old) and elder people."
 
-* **Grade**: -
+* **Grade**: 10 /10
 
 ## Note
 
